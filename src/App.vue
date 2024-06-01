@@ -1,9 +1,11 @@
 <script setup lang="ts">
-import HelloThree from './components/HelloThree.vue'
+// import HelloThree from './components/HelloThree.vue'
+import Demo from './components/wave/Wave.vue'
 </script>
 
 <template>
-  <HelloThree/>
+  <!-- <HelloThree/> -->
+  <Demo/>
 </template>
 
 <style scoped>
